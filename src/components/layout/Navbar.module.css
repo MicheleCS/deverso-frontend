@@ -1,7 +1,7 @@
 .navbar {
   display: flex;
   justify-content: space-between;
-  background-image: linear-gradient(45deg, #F24194, #6610f2);
+  background-color: #582974;
   padding:0cap;
 }
 
