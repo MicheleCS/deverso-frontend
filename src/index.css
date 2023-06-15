@@ -7,6 +7,6 @@
 }
 
 html, body, #root{
-  background-color: aliceblue;
-  height: 100%;
+  background-image:linear-gradient(220deg,  #582974 50%, rgba(6,147,227,1) 100%);
+  height: 143%;
 }
